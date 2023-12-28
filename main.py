@@ -6,3 +6,6 @@ def break_point(number):
     if left_sum == right_sum:
       return True
   return False
+
+# Рандомный коммент
+# rjhbxytdjt e[j afhfjyf ]
